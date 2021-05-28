@@ -1,0 +1,2 @@
+# DecideBudgetFromWalras
+ワルラス方程式とミクロ予算制約式を用いて、本年度必要な予算を導出した。
